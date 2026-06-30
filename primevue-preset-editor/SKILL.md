@@ -1,5 +1,5 @@
 ---
-name: primevue-preset-skill
+name: primevue-preset-editor
 description: Use when adding or changing a style in a PrimeVue theme preset via definePreset — e.g. "make the Card darker", "change the primary color", "round the Button corners", "tweak InputText focus ring". Edits the correct design-token tier inside the definePreset config, using verified token names and type-check to keep the change valid.
 ---
 
