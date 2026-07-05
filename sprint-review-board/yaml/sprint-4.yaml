@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../sprint.schema.json
+sprint: 4
+dates: "Jun 23 – Jul 4, 2026"
+agenda:
+  - "Sprint goals recap"
+  - "Live developer demos"
+  - "Risks, blockers & dependencies"
+  - "Next-sprint commitments"
+  - "Open discussion"
+demos:
+  - topic: "Streaming ingestion backpressure controls"
+    who: "Ana Whitfield"
+  - topic: "Schema Registry v2 migration"
+    who: "Devon Park"
+  - topic: "Query planner cost model rewrite"
+    who: "Priya Nair"

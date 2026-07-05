@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  margin: 0;
+  height: 100%;
+}
+
+:root {
+  --bg: #fbfaf7;
+  --ink: #23201b;
+  --muted: #6e685f;
+  --faint: #aba498;
+  --line: rgba(35, 32, 27, 0.1);
+  --accent: #b25b3a;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Instrument Sans', system-ui, sans-serif;
+  overflow: hidden;
+}
